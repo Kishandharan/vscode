@@ -2,5 +2,5 @@ Font - MonoLisa
 Theme - Abyss
 Font size - 20(Will be varying)
 
-VScode Installation file - VSCodeUserSetup-x64-1.92.0.exe
+VScode Installation link - https://code.visualstudio.com/
 Font installation file - MonoLisa-Regular.ttf
