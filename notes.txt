@@ -1,6 +1,5 @@
-Font - MonoLisa
-Theme - Abyss
-Font size - 20(Will be varying)
+Font - Consolas
+Theme - Ayu Dark(By default this theme will not installed, You have to install it)
+Font size - 28(Will be varying)
 
 VScode Installation link - https://code.visualstudio.com/
-Font installation file - MonoLisa-Regular.ttf
